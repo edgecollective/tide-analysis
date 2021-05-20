@@ -1,1 +1,1 @@
-# jupyter-tide-analysis
+# tide-analysis
